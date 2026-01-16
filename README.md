@@ -1,4 +1,4 @@
-## 周易易经64卦详解
+## 周易易经 64 卦详解
 
 ### 本地运行
 
@@ -11,3 +11,8 @@ mkdocs serve
 ```
 
 浏览器打开 `127.0.0.1:8080`
+
+```bash
+pip install mkdocs-material
+pip install mkdocs-minify-plugin
+```
