@@ -5,8 +5,6 @@ hide:
 
 # 总览
 
-[进入知命阁](https://divination.sunls.de/) - 融合周易智慧与人工智能，提供 AI 算卦、生辰八字、周公解梦等服务
-
 [另外一个带图片的版本](other/index.md)
 
 | 序号                                | 描述                           |
